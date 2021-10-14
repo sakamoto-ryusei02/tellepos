@@ -1,2 +1,5 @@
 Flask
 gunicorn
+mecab-python3
+ipadic
+sengiri
