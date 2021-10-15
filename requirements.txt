@@ -3,3 +3,7 @@ gunicorn
 mecab-python3
 ipadic
 sengiri
+sqlite3
+sqlalchemy
+postgresql
+psycopg2
