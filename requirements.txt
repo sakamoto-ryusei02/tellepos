@@ -24,6 +24,7 @@ Pygments==2.7.0
 PyMySQL==0.10.1
 requests==2.24.0
 requests-oauthlib==1.3.0
+sengiri==0.2.1
 six==1.15.0
 SQLAlchemy==1.4.25
 sqlparse==0.3.1
